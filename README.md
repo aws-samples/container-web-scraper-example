@@ -1,6 +1,6 @@
 ## A web scraper in a Docker container hosted on AWS
 
-This example illustrates how to build and run a Docker image containing Firefox web browser, Python libraries, such as Selemium and etc., to host a web scraper on AWS. 
+This example illustrates how to build and run a Docker image containing Firefox web browser, Python libraries, such as Selenium and etc., to host a web scraper on AWS. 
 
 ## Instructions
 
